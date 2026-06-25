@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Mayank Rawal 👋
+### Cloud Architect | Infrastructure as Code | DevOps | System Engineer | CI/CD
 
-<!--
-**mayankrawall/mayankrawall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+With strong problem-solving abilities, I am able to identify issues, develop solutions, and own the delivery and implementation of these solutions. I focus on building scalable cloud infrastructure, optimizing CI/CD pipelines, and implementing robust DevOps practices to drive success.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 My GitHub Stats (Automatically Updated)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayankrawall&show_icons=true&theme=radical" alt="Mayank's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankrawall&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Cloud & Architecture** | Cloud Computing, Cloud Engineering, Cloud Services, Cloud Architecture, Amazon EC2 |
+| **DevOps & CI/CD** | DevOps Engineering, CI/CD, Jenkins, GitHub, GitLab, Git, AWS CodeDeploy |
+| **Infrastructure as Code** | Infrastructure as Code, Terraform, Ansible |
+| **Containers & Orchestration** | Docker, Kubernetes, Amazon ECS for Kubernetes |
+| **Security** | Cloud Security |
+
+---
+
+## ⚙️ Working Style
+- 🎯 Solution Oriented
+- 🗣️ Clear Communicator
+- 🔍 Detail Oriented
