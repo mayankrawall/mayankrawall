@@ -1,6 +1,6 @@
 ![Status](https://img.shields.io/badge/Status-Work%20In%20Progress-yellow?style=for-the-badge&logo=github)
 # Hi there, I'm Mayank Rawal 👋
-### Cloud Architect | Infrastructure as Code | DevOps | System Engineer | CI/CD
+### Cloud Architect | Infrastructure as Code | DevOps | Systems Engineer | CI/CD
 
 ---
 
