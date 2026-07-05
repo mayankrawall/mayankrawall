@@ -1,4 +1,4 @@
-![Work Status](https://img.shields.io/badge/Work-is_Live-brightgreen?style=flat-square)
+[![Work Status](https://img.shields.io/badge/Work-is_Live-brightgreen?style=flat-square)](#)
 > **Note:** To optimize AWS Free Tier usage, the live EC2 instance might be stopped. If you wish to review the live deployment, please let me know, and I will spin it up instantly.
 # Hi there, I'm Mayank Rawal 👋
 ### Cloud Architect | Infrastructure as Code | DevOps | Systems Engineer | CI/CD
