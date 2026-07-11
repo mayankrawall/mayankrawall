@@ -1,6 +1,6 @@
 [![Work Status](https://img.shields.io/badge/Work-is_Live-brightgreen?style=flat-square)](#)
 <div align="center">
-<a href="mailto:mayankrawal078@gmail.com"><img src="https://img.shields.io/badge/Live%20Demo-EC2%20Currently%20Stopped%20%E2%80%94%20Contact%20to%20Activate-334155?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="EC2 live demo status" /></a>
+<a href="mayankrawal078@gmail.com"><img src="https://img.shields.io/badge/Live%20Demo-EC2%20Currently%20Stopped%20%E2%80%94%20Contact%20to%20Activate-334155?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="EC2 live demo status" /></a>
 
 # Mayank Rawal
 
