@@ -54,7 +54,7 @@ With strong problem-solving abilities, I identify issues, develop solutions, and
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=mayankrawall&show_icons=true&theme=dark&hide_border=true&count_private=true&icon_color=64748B&title_color=CBD5E1&text_color=94A3B8&bg_color=0D1117" alt="stats" />
-<img height="160" src="https://github-readme-stats.vercel.appusername=mayankrawall&layout=compact&hide_border=true&theme=dark&title_color=CBD5E1&text_color=94A3B8&bg_color=0D1117" alt="top languages" />
+<img height="160" src="https://github-readme-stats.vercel.appusername=mayankrawall&layout=compact&hide_border=true&theme=dark&title_color=CBD5E1&text_color=94A3B8&bg_color=0D1117" 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankrawall&theme=dark&hide_border=true&background=0D1117&ring=64748B&fire=94A3B8&currStreakLabel=CBD5E1" alt="streak" />
 
@@ -67,10 +67,9 @@ With strong problem-solving abilities, I identify issues, develop solutions, and
 > **Note:** To optimize AWS Free Tier usage, the live EC2 deployment may be stopped when idle. Reach out via the links above and I'll spin the environment up for a live review.
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mayankrawall&repo=mayankrawall&theme=dark&hide_border=true&icon_color=64748B&title_color=CBD5E1&text_color=94A3B8&bg_color=0D1117" alt="https://github.com/mayankrawall/github-actions-demo.git" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mayankrawall&repo=mayankrawall&theme=dark&hide_border=true&icon_color=64748B&title_color=CBD5E1&text_color=94A3B8&bg_color=0D1117"
 </div>
 
-<!-- https://github.com/mayankrawall/github-actions-demo.git -->
 
 ---
 
