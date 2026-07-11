@@ -78,29 +78,15 @@ Architecture decisions are guided by the AWS Well-Architected Framework pillars:
 
 ---
 
-## GitHub Overview
+## Activity Dashboard
 
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=mayankrawall&show_icons=true&theme=dark&hide_border=true&count_private=true&icon_color=64748B&title_color=CBD5E1&text_color=94A3B8&bg_color=0D1117" alt="stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankrawall&layout=compact&hide_border=true&theme=dark&title_color=CBD5E1&text_color=94A3B8&bg_color=0D1117" alt="top languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankrawall&theme=dark&hide_border=true&background=0D1117&ring=64748B&fire=94A3B8&currStreakLabel=CBD5E1" alt="streak" />
 
 </div>
-
----
-
-## Featured Project
-
-> **Note:** To optimize AWS Free Tier usage, the live EC2 deployment may be stopped when idle. Reach out via the links above and I'll spin the environment up for a live review.
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mayankrawall&repo=mayankrawall&theme=dark&hide_border=true&icon_color=64748B&title_color=CBD5E1&text_color=94A3B8&bg_color=0D1117" alt="pinned repo" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mayankrawall&repo=github-actions-demo&theme=dark&hide_border=true&icon_color=64748B&title_color=CBD5E1&text_color=94A3B8&bg_color=0D1117" alt="github actions demo repo" />
-</div>
-
-<!-- Duplicate the block above with a different `repo=` value to feature additional projects. -->
 
 ---
 
@@ -125,27 +111,3 @@ Open to DevOps Engineering and Solutions Architecture roles, freelance infrastru
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-334155?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
