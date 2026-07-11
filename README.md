@@ -1,6 +1,6 @@
 [![Work Status](https://img.shields.io/badge/Work-is_Live-brightgreen?style=flat-square)](#)
 <div align="center">
-<a href="mayankrawal078@gmail.com"><img src="https://img.shields.io/badge/Live%20Demo-EC2%20Currently%20Stopped%20%E2%80%94%20Contact%20to%20Activate-334155?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="EC2 live demo status" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mayankrawal078@gmail.com"><img src="https://img.shields.io/badge/Live%20Demo-EC2%20Currently%20Stopped%20%E2%80%94%20Contact%20to%20Activate-334155?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="EC2 live demo status" /></a>
 
 # Mayank Rawal
 
@@ -9,7 +9,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1200&color=64748B&center=true&vCenter=true&width=650&lines=Designing+scalable%2C+well-architected+cloud+solutions;Automating+deployments+with+CI%2FCD+pipelines;Provisioning+infrastructure+as+code" alt="tagline" />
 
 <a href="https://www.linkedin.com/in/mayank-rawal-12893921b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mayankrawal078@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mayankrawal078@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-334155?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Resume-334155?style=flat-square&logo=googledocs&logoColor=white" /></a>
 
