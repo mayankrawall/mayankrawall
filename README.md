@@ -1,5 +1,4 @@
 [![Work Status](https://img.shields.io/badge/Work-is_Live-brightgreen?style=flat-square)](#)
-> **Note:** To optimize AWS Free Tier usage, the live EC2 instance might be stopped. If you wish to review the live deployment, please let me know, and I will spin it up instantly.
 <h1 align="center">Hi there, I'm Mayank Rawal 👋</h1>
 <h3 align="center">Cloud Architect | Infrastructure as Code | DevOps | Systems Engineer | CI/CD</h3>
 
@@ -15,8 +14,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayankrawall&label=Profile%20Views&color=2E9EF7&style=flat" />
-  <img src="https://img.shields.io/github/followers/mayankrawall?label=Followers&style=flat&color=2E9EF7" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=mayankrawall&label=Profile+Views&color=2E9EF7&style=for-the-badge&base=0d1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=mayankrawall&label=Profile+Views&color=2E9EF7&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=mayankrawall&label=Profile+Views&color=2E9EF7&style=for-the-badge" alt="Profile views" />
+  </picture>
+  <img src="https://img.shields.io/github/followers/mayankrawall?label=Followers&style=for-the-badge&color=2E9EF7&labelColor=1a1a1a" />
 </p>
 
 ---
@@ -40,7 +43,11 @@ fun_fact: Turns manual runbooks into one-click pipelines
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,ansible,git,github,gitlab,linux,python,bash&theme=light" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,ansible,git,github,gitlab,linux,python,bash&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,ansible,git,github,gitlab,linux,python,bash&theme=light" />
+    <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,ansible,git,github,gitlab,linux,python,bash&theme=light" alt="Tech stack icons" />
+  </picture>
 </p>
 
 | Category | Technologies |
@@ -57,16 +64,32 @@ fun_fact: Turns manual runbooks into one-click pipelines
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mayankrawall&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankrawall&layout=compact&hide_border=true&theme=default" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mayankrawall&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mayankrawall&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=mayankrawall&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankrawall&layout=compact&hide_border=true&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankrawall&layout=compact&hide_border=true&theme=default" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankrawall&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankrawall&theme=default&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mayankrawall&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mayankrawall&theme=default&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankrawall&theme=default&hide_border=true" alt="Streak Stats" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankrawall&theme=minimal&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mayankrawall&theme=react-dark&hide_border=true&bg_color=0d1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mayankrawall&theme=minimal&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankrawall&theme=minimal&hide_border=true" alt="Contribution Activity Graph" />
+  </picture>
 </p>
 
 ---
@@ -76,13 +99,16 @@ fun_fact: Turns manual runbooks into one-click pipelines
 > 💬 **Note:** To optimize AWS Free Tier usage, live EC2 deployments are stopped when idle. Reach out via the contact links above and I'll spin the environment up instantly for a live demo.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayankrawall&repo=mayankrawall&theme=default&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mayankrawall&repo=mayankrawall&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mayankrawall&repo=mayankrawall&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayankrawall&repo=mayankrawall&theme=default&hide_border=true" alt="Pinned repo" />
+  </picture>
 </p>
 
 <!--
-  Add more pinned project cards below by duplicating this line and
-  swapping the repo name — this is how you'll showcase your best 2-4 repos:
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayankrawall&repo=REPO_NAME&theme=default&hide_border=true" />
+  Add more pinned project cards below by duplicating the <picture> block above
+  and swapping repo=mayankrawall for your other repo names, e.g. repo=REPO_NAME
 -->
 
 ---
@@ -109,4 +135,5 @@ I'm open to **Cloud / DevOps opportunities**, freelance infra work, and collabor
 </p>
 
 <p align="center"><i>⭐️ If you find my repos useful, a star goes a long way!</i></p>
+
 
