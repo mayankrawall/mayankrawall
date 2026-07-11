@@ -70,7 +70,7 @@ With strong problem-solving abilities, I identify issues, develop solutions, and
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayankrawall&repo=mayankrawall&theme=dark&hide_border=true&icon_color=64748B&title_color=CBD5E1&text_color=94A3B8&bg_color=0D1117" alt="pinned repo" />
 </div>
 
-<!-- Duplicate the block above with a different `repo=` value to feature additional projects. -->
+<!-- https://github.com/mayankrawall/github-actions-demo.git -->
 
 ---
 
