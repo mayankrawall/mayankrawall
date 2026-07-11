@@ -1,15 +1,16 @@
 [![Work Status](https://img.shields.io/badge/Work-is_Live-brightgreen?style=flat-square)](#)
 <div align="center">
+<div align="center">
 
 # Mayank Rawal
 
-**Cloud Architect · Infrastructure as Code · DevOps · Systems Engineer**
+**DevOps Engineer · Solutions Architect · Cloud Infrastructure & Automation**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1200&color=64748B&center=true&vCenter=true&width=600&lines=Cloud+infrastructure+%7C+CI%2FCD+automation+%7C+IaC" alt="tagline" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1200&color=64748B&center=true&vCenter=true&width=650&lines=Designing+scalable%2C+well-architected+cloud+solutions;Automating+deployments+with+CI%2FCD+pipelines;Provisioning+infrastructure+as+code" alt="tagline" />
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" /><mayankrawal078@gmail.com>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-334155?style=flat-square&logo=googlechrome&logoColor=white" /><https://github.com/mayankrawall/github-actions-demo.git>
+<a href="https://www.linkedin.com/in/mayank-rawal-12893921b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mayankrawal078@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-334155?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Resume-334155?style=flat-square&logo=googledocs&logoColor=white" /></a>
 
 </div>
@@ -18,22 +19,22 @@
 
 ## About
 
-With strong problem-solving abilities, I identify issues, develop solutions, and own the delivery and implementation end-to-end. My focus is on building scalable cloud infrastructure, optimizing CI/CD pipelines, and implementing robust DevOps practices that drive measurable business outcomes.
+With strong problem-solving abilities, I identify issues, design solutions, and own the delivery and implementation end-to-end. My focus spans two disciplines: **architecting** scalable, secure, cost-efficient cloud solutions, and **operationalizing** them through robust CI/CD pipelines and DevOps practices — bridging the gap between design and reliable, production-grade delivery.
 
 | | |
 |---|---|
-| **Role** | Cloud Architect / DevOps Engineer |
-| **Core Focus** | AWS · Terraform · Kubernetes · CI/CD Automation |
+| **Role** | DevOps Engineer · Solutions Architect |
+| **Core Focus** | Cloud Solution Design · AWS · Terraform · Kubernetes · CI/CD Automation |
 | **Currently Working On** | Cloud-native infrastructure & automation projects |
 | **Currently Learning** | Advanced Kubernetes patterns, IaC best practices, Cloud Security |
-| **Approach** | Automate everything. Document everything. Break nothing. |
+| **Approach** | Design for scale. Automate everything. Document everything. Break nothing. |
 
 ---
 
 ## Technical Skills
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,ansible,git,github,gitlab,linux,python,bash&theme=dark&perline=6" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,ansible,git,github,gitlab,linux,python,bash,prometheus,grafana,nginx&theme=dark&perline=6" alt="tech stack" />
 </div>
 
 <br>
@@ -44,8 +45,36 @@ With strong problem-solving abilities, I identify issues, develop solutions, and
 | DevOps & CI/CD | Jenkins, GitHub Actions, GitLab CI, AWS CodeDeploy |
 | Infrastructure as Code | Terraform, Ansible, CloudFormation |
 | Containers & Orchestration | Docker, Kubernetes, Amazon ECS |
+| Monitoring & Observability | Prometheus, Grafana, AWS CloudWatch |
 | Security | Cloud Security, IAM Policies, Security Hardening |
 | Scripting | Python, Bash, Shell Scripting |
+
+---
+
+## Solution Architecture Approach
+
+Architecture decisions are guided by the AWS Well-Architected Framework pillars:
+
+| Pillar | Practice |
+|---|---|
+| **Operational Excellence** | Infrastructure as Code, automated deployments, documented runbooks |
+| **Security** | Least-privilege IAM, network segmentation, security hardening by design |
+| **Reliability** | Fault-tolerant architectures, automated recovery, redundancy planning |
+| **Performance Efficiency** | Right-sized resources, container orchestration, workload-appropriate services |
+| **Cost Optimization** | Free Tier / reserved capacity planning, resource right-sizing, usage monitoring |
+
+---
+
+## DevOps Lifecycle
+
+| Stage | Practice |
+|---|---|
+| **Plan & Version Control** | Git, GitHub, GitLab — trunk-based & feature-branch workflows |
+| **Build & Integrate** | CI pipelines with Jenkins, GitHub Actions, GitLab CI |
+| **Package & Deploy** | Docker images, AWS CodeDeploy, Kubernetes rollouts |
+| **Provision Infrastructure** | Terraform & Ansible — infrastructure as code, idempotent configs |
+| **Monitor & Observe** | Prometheus, Grafana, CloudWatch dashboards & alerting |
+| **Secure** | IAM least-privilege, security hardening across the pipeline |
 
 ---
 
@@ -54,7 +83,7 @@ With strong problem-solving abilities, I identify issues, develop solutions, and
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=mayankrawall&show_icons=true&theme=dark&hide_border=true&count_private=true&icon_color=64748B&title_color=CBD5E1&text_color=94A3B8&bg_color=0D1117" alt="stats" />
-<img height="160" src="https://github-readme-stats.vercel.appusername=mayankrawall&layout=compact&hide_border=true&theme=dark&title_color=CBD5E1&text_color=94A3B8&bg_color=0D1117" 
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankrawall&layout=compact&hide_border=true&theme=dark&title_color=CBD5E1&text_color=94A3B8&bg_color=0D1117" alt="top languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankrawall&theme=dark&hide_border=true&background=0D1117&ring=64748B&fire=94A3B8&currStreakLabel=CBD5E1" alt="streak" />
 
@@ -67,32 +96,47 @@ With strong problem-solving abilities, I identify issues, develop solutions, and
 > **Note:** To optimize AWS Free Tier usage, the live EC2 deployment may be stopped when idle. Reach out via the links above and I'll spin the environment up for a live review.
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mayankrawall&repo=mayankrawall&theme=dark&hide_border=true&icon_color=64748B&title_color=CBD5E1&text_color=94A3B8&bg_color=0D1117"
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mayankrawall&repo=mayankrawall&theme=dark&hide_border=true&icon_color=64748B&title_color=CBD5E1&text_color=94A3B8&bg_color=0D1117" alt="pinned repo" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mayankrawall&repo=github-actions-demo&theme=dark&hide_border=true&icon_color=64748B&title_color=CBD5E1&text_color=94A3B8&bg_color=0D1117" alt="github actions demo repo" />
 </div>
 
+<!-- Duplicate the block above with a different `repo=` value to feature additional projects. -->
 
 ---
 
 ## Working Style
 
-- **Solution Oriented** — focused on outcomes, not just tasks
-- **Clear Communicator** — technical concepts explained simply, no jargon overload
+- **Solution Oriented** — evaluate trade-offs and design for the right level of scale, not over-engineered
+- **Clear Communicator** — technical concepts explained simply to both engineers and stakeholders
 - **Detail Oriented** — infrastructure that's reliable because nothing was skipped
 - **Ownership Mindset** — I don't just flag issues, I fix them and follow through
+- **Business-Aware** — architecture decisions weighed against cost, risk, and delivery timelines
 
 ---
 
 ## Contact
 
-Open to Cloud / DevOps opportunities, freelance infrastructure work, and collaboration on automation tooling.
+Open to DevOps Engineering and Solutions Architecture roles, freelance infrastructure work, and collaboration on automation tooling.
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mayank-rawal-12893921b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mayankrawal078@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-334155?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
