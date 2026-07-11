@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1200&color=64748B&center=true&vCenter=true&width=600&lines=Cloud+infrastructure+%7C+CI%2FCD+automation+%7C+IaC" alt="tagline" />
 
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" /><mayankrawal078@gmail.com>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-334155?style=flat-square&logo=googlechrome&logoColor=white" /><https://github.com/mayankrawall/github-actions-demo.git>
 <a href="#"><img src="https://img.shields.io/badge/Resume-334155?style=flat-square&logo=googledocs&logoColor=white" /></a>
 
