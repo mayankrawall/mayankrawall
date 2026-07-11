@@ -82,7 +82,7 @@ Architecture decisions are guided by the AWS Well-Architected Framework pillars:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mayankrawall&show_icons=true&theme=dark&hide_border=true&count_private=true&icon_color=64748B&title_color=CBD5E1&text_color=94A3B8&bg_color=0D1117" alt="stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mayankrawall&show_icons=true&theme=dark&hide_border=true&count_private=true&icon_color=64748B&title_color=CBD5E1&text_color=94A3B8&bg_color=0D1117" 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankrawall&theme=dark&hide_border=true&background=0D1117&ring=64748B&fire=94A3B8&currStreakLabel=CBD5E1" alt="streak" />
 
