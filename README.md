@@ -7,7 +7,6 @@
 **DevOps Engineer · Solutions Architect · Cloud Infrastructure & Automation**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1200&color=64748B&center=true&vCenter=true&width=650&lines=Designing+scalable%2C+well-architected+cloud+solutions;Automating+deployments+with+CI%2FCD+pipelines;Provisioning+infrastructure+as+code" alt="tagline" />
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1200&color=64748B&center=true&vCenter=true&width=650&lines=Designing+scalable%2C+well-architected+cloud+solutions;Automating+deployments+with+CI%2FCD+pipelines;Provisioning+infrastructure+as+code" alt="tagline" />
 
 <a href="https://www.linkedin.com/in/mayank-rawal-12893921b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:mayankrawal078@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" /></a>
